@@ -1,0 +1,3 @@
+Hello buffer file
+I'm writing some text into you
+my sentence is a test
